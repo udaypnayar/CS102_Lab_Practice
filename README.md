@@ -3,7 +3,7 @@
 Interesting...
 ---
 
-1. [x] Do this | [ ] Don't do this...
+1. [x] Do this | X Don't do this...
 :---: | ---:
 ```md
 [link](https://www.example.com/my%20/great%20/page)
@@ -18,7 +18,8 @@ Interesting...
 
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+First name | Second name
+:----: | :----
+Uday | Nayar
+Yadu | Rayan
+Dayu | Yanar
