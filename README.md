@@ -10,10 +10,10 @@ Interesting...
 a | A
 
 
-- [x]: Check box 1: [x]
-- [ ]: Check box 2: [ ]  
-	* [x]: Check box 3: [x]
-- [ ]: Check box 4: [ ] 
+- [x] Check box 1
+- [ ] Check box 2  
+	* [x] Check box 3
+- [ ] Check box 4 
 
 
 First name | Second name
