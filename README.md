@@ -3,7 +3,8 @@
 Interesting...
 ---
 
-1. [x] Do this | X Don't do this...
+ [x] Do this | X Don't do this...
+
 :---: | ---:
 ```md
 [link](https://www.example.com/my%20/great%20/page)
