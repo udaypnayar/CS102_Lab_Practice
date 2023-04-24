@@ -10,6 +10,10 @@ Interesting...
 a | A
 
 
+1. Check box 1: [x]
+1. Check box 2: [ ]
+	23. Check box 3: [x]
+10. Check box 4: [ ] 
 
 
 First name | Second name
