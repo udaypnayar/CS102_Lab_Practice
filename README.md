@@ -3,10 +3,10 @@
 Interesting...
 ---
 
- [x] Do this | X Don't do this...
+- [x] Do this | X Don't do this...
 :---: | ---:
 `[link](https://www.example.com/my%20/great%20/page)` | 
-`<a href="https://www.example.com/my great page">link</a>` | [link](https://www.example.com/my great page)
+`<a href="https://www.example.com/my great page">link</a>` | `[link](https://www.example.com/my great page)`
 :---: | ---:
 
 
